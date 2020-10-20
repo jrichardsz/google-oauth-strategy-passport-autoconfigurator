@@ -1,0 +1,30 @@
+{
+  "name": "google-oauth-strategy-passport-autoconfigurator",
+  "version": "1.0.0",
+  "description": "google-oauth-strategy-passport-autoconfigurator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utec/microfrontend-tools.git"
+  },
+  "dependencies": {
+    "passport": "0.4.0",
+    "passport-google-oauth": "^0.1.5"
+  },
+  "keywords": [
+    "google-oauth-strategy-passport-autoconfigurator"
+  ],
+  "author": "Richard Leon Ingaruca <jrichardsz.java@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "#"
+  },
+  "homepage": "#",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
